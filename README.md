@@ -1,3 +1,10 @@
+# Alexa Skill in Go
+
+Creating an Alexa skill using Go, and AWS Lambda is fast and easy with this very opinionated skill library
+
+
+Check out the simplicity of this skill's core
+```
 // main.go
 package main
 
@@ -14,3 +21,4 @@ func init() {
 func main() {
 	  skill.OnLambda()
 }
+```
