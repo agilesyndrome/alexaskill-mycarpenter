@@ -1,0 +1,3 @@
+src/dist/*
+go.mod
+go.sum
