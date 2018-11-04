@@ -22,3 +22,5 @@ func main() {
 	  skill.OnLambda()
 }
 ```
+
+# Check out the Core Library at https://github.com/agilesyndrome/go-alexa/alexaskill
