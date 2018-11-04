@@ -1,0 +1,35 @@
+en-US:
+  skill-name: "My Carpenter"
+  kaput:
+    text: "Sorry, my carpenter is having some trouble right now. You should try again later."
+  help: 
+    text: "You can try saying: Ask my carpenter what is the actual size of a 2 by 4 piece of lumber"
+  fallback:
+    text: "Sorry, I don't know how to do what you're asking for."
+  stop:
+    text: "Thanks and goodbye!"
+  hello:
+    text: "Hello World!"
+  supdog:
+    text: "Wasssssup"
+    title: "Wassssup"
+
+  welcome:
+    text: "Hello! I'm your carpenter. Try asking me for the actual size of a 1 by 3 piece of lumber"
+  actual_size_test: "I'm still studying my sizes."
+  need_two_sizes: "In order to give you the actual size, please try again and provide both measurements, width and the depth"
+  numbers.0.250 : "a quarter"
+  numbers.0.500 : "a half"
+  numbers.0.750 : "three quarter"
+  plural_unit : "inches"
+  singular_unit: "inch"
+  actual_size: "The actual size is"
+  actual_size_title: "Actual Size"
+  unknown_size: "I'm sorry, I don't know that dimension, try again."
+  not-specified:
+    title: "My Carpenter"
+    text: "I'm not sure about that one.  Try saying ask my carpenter help"
+
+  stop:
+    title: "My Carpenter"
+    text: "Goodbye!"
